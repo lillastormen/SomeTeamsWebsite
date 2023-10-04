@@ -1,8 +1,8 @@
 <?php
-
-require "data.php";
-
-echo count($teams);
-
 require "table.php";
+require "teams.php";
+require "cities.php";
 ?>
+
+
+

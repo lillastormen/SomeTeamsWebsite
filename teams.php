@@ -1,0 +1,1 @@
+<h3>Number of teams: <?php echo count($teams); ?></h3>
