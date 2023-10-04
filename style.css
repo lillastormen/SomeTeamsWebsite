@@ -1,3 +1,21 @@
+table, td,th {
+   border: 1px black solid;
+}
+
+th {
+   background-color: lightblue;
+   text-transform: uppercase;
+}
+
+tr:nth-child(even) {
+   background-color: azure;
+}
+
 table {
-   border: 2px black solid;
+   border-collapse: collapse;
+   width: 100%;
+}
+
+th, td {
+   padding: 15px;
 }

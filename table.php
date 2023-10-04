@@ -8,6 +8,7 @@
     </tr>
 
 <?php 
+
 require "data.php";
 
 foreach ($teams as $teamName => $teamData)
@@ -22,5 +23,6 @@ foreach ($teams as $teamName => $teamData)
 }
 
 ?>
+
 </table>
 
