@@ -10,7 +10,6 @@ foreach ($teams as $team) {
         $uniqueCities[] = $city;
     }
 }
-
 ?>
 
 <h3>Cities: </h3>
